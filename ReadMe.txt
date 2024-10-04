@@ -1,3 +1,7 @@
+Data sú dostupné na odkaze: 
+
+https://drive.google.com/drive/folders/1LSj4L53D_WqMvCtBskfhhFs67rDPF3mB?usp=drive_link
+
 Pre stiahnutie a rozbalenie FastText je možné využiť nasledujúce príkazy:
 
 !wget https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip
@@ -13,7 +17,6 @@ Pre stiahnutie word2Vec bol použitý odkaz z google disc:
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/view?resourcekey=0-wjGZdNAUop6WykTtMip30g
 
 Ja som stiahnté súbory umiestnila do zložky Data, preto !unzip príkazy v scriptoch sú s priamou cestou tam.
-
 
 Inštalácia knižníc: 
 
